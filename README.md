@@ -86,4 +86,8 @@ The system demonstrates key concepts of optical communication, including signal 
 * Plastic Optical Fiber (POF)
 * Breadboard and power supply
 
+## System Diagram
+
+![System Diagram](images/system_diagram.png)
+
 
